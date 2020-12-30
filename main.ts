@@ -1,5 +1,5 @@
 //normal command imports
-import './commands/infoCommands/info.ts'
+import './commands/infoCommands/roleInfo.ts'
 
 //interation imports
 import './interaction commands/idk.ts'
